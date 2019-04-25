@@ -1,1 +1,1 @@
-# glancify.github.io
+hypnotize.github.io
